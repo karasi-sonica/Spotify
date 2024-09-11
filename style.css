@@ -1,0 +1,137 @@
+*{
+    background-color: black;
+    font-family: DM Sans;
+}
+
+#logo{
+    width: 15%;
+    height: 5%;
+}
+#left-image1{
+    width: 3%;
+    height: 2%;
+    padding: 2%  0%  0% 0%;
+}
+
+#left-text1{
+    color: white;
+    align-content: flex-start;
+    align-items: center;
+    display: inline-block;
+    padding: 1% 0% 2% 1%;
+    font-size: 25px;
+}
+
+#left-image2{
+    width: 5%;
+    height: 0%;
+    display: block;
+}
+
+#left-text2{
+    color: white;
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    padding: 0% 0% 2% 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#left-image3{
+    width: 3%;
+    height: 0%;
+    display: block;
+}
+
+#left-text3{
+    color: white;
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    padding: 0% 0% 2% 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#left-image4{
+    width: 3%;
+    height: 0%;
+    display: block;
+}
+
+#left-text4{
+    color: white;
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    padding: 0% 0% 2% 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#left-image5{
+    width: 3%;
+    height: 0%;
+    display: block;
+}
+
+#left-text5{
+    color: white;
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    padding: 0% 0% 2% 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#left-image6{
+    width: 3%;
+    height: 0%;
+    display: block;
+}
+
+#left-text6{
+    color: white;
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    padding: 0% 0% 2% 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#left-text7{
+    color: white;
+}
+#left-text8{
+    color: white;
+}
+#left-text9{
+    color: white;
+}
+#left-text10{
+    color: white;
+}
+#left-text11{
+    color: white;
+}
+#left-text12{
+    color: white;
+}
+
+#left-text13{
+    color: white;
+    display: inline-block;
+}
+
+#left-image7{
+    width: 3%;
+    height: 0%;
+    display: block;
+}
+
+#Arrows{
+    
+}
